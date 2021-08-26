@@ -1,0 +1,4 @@
+api.edu.cableado.api,IEntrada,edu.logica.gui,GUI
+api.edu.cableado.api,ISalida,edu.logica.gui,GUI
+api.edu.cableado.api,IReserva,edu.logica.gui,GUI
+api.edu.cableado.api,ITutorial,edu.logica.gui,GUI

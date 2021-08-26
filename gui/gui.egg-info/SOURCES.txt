@@ -1,0 +1,11 @@
+README.md
+configuracion.inf
+setup.py
+edu/__init__.py
+edu/logica/__init__.py
+edu/logica/gui.py
+gui.egg-info/PKG-INFO
+gui.egg-info/SOURCES.txt
+gui.egg-info/dependency_links.txt
+gui.egg-info/not-zip-safe
+gui.egg-info/top_level.txt

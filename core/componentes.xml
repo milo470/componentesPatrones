@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<componentes>
+
+   <componente>
+      <nombre>core</nombre>
+      <ext>whl</ext>
+      <origen>dist/</origen>
+      <destino>C:/Users/Camilo/Desktop/ComponentesAP/orquestador/back/</destino>
+   </componente>
+   
+</componentes>
